@@ -3,7 +3,7 @@
 	"displayName": "Paperus",
 	"description": "A simple light theme",
 	"publisher": "rphlmr",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"repository": "https://github.com/rphlmr/vscode-theme-paperus",
 	"engines": {
 		"vscode": "^1.82.0"
