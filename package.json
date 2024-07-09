@@ -1,0 +1,24 @@
+{
+	"name": "paperus",
+	"displayName": "Paperus",
+	"description": "A simple light theme",
+	"publisher": "rphlmr",
+	"version": "1.0.0",
+	"repository": "https://github.com/rphlmr/vscode-theme-paperus",
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"icon": "logo.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Paperus",
+				"uiTheme": "vs",
+				"path": "./themes/paperus-color-theme.json"
+			}
+		]
+	}
+}
